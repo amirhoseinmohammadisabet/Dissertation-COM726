@@ -1,0 +1,6 @@
+folium
+cartopy
+netCDF4
+pydub
+librosa
+skimage
